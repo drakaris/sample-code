@@ -1,1 +1,1 @@
-# Sample-code
+Random fragment generator

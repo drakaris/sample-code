@@ -1,0 +1,11 @@
+{
+  "name": "job",
+  "version": "1.0.0",
+  "description": "Job application code fragments",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjhun Srinivas",
+  "license": "ISC"
+}
